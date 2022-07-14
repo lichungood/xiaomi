@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="xiaomi:Web">
+    <output-path>$PROJECT_DIR$/out/artifacts/xiaomi_Web</output-path>
+    <root id="archive" name="xiaomi_Web.war">
+      <element id="artifact" artifact-name="xiaomi:Web exploded" />
+    </root>
+  </artifact>
+</component>
